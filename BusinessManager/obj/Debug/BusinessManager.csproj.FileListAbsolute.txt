@@ -1,0 +1,14 @@
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\BusinessManager.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\BusinessManager.pdb
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\Common.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\RepositoryManager.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\EntityFramework.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\Common.pdb
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\RepositoryManager.pdb
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\RepositoryManager.dll.config
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\bin\Debug\EntityFramework.xml
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\obj\Debug\BusinessManager.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\obj\Debug\BusinessManager.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\obj\Debug\BusinessManager.csproj.CopyComplete
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\obj\Debug\BusinessManager.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\BusinessManager\obj\Debug\BusinessManager.pdb

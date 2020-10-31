@@ -1,0 +1,14 @@
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\RepositoryManager.dll.config
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\RepositoryManager.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\RepositoryManager.pdb
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\Common.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\EntityFramework.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\Common.pdb
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\EntityFramework.xml
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\obj\Debug\RepositoryManager.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\obj\Debug\RepositoryManager.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\obj\Debug\RepositoryManager.csproj.CopyComplete
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\obj\Debug\RepositoryManager.dll
+C:\Users\manoj\source\repos\EmployeeMgtApplication\RepositoryManager\obj\Debug\RepositoryManager.pdb
